@@ -1,0 +1,21 @@
+body {
+    background-color: #67666a
+  }
+.center-text { 
+    text-align: center; 
+    width: 30%; 
+    margin: 0 auto; 
+  }
+.imagecontainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px;
+}
+.imagecontainer img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3f3e41;
+  border-width: 10px;
+  
+}
