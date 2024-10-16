@@ -11,6 +11,7 @@ body {
   justify-content: space-around;
   align-items: center;
   padding: 60px;
+  max-width: 1600px;
 }
 .imagecontainer img {
   border-radius: 50%;
